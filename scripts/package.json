@@ -1,0 +1,12 @@
+{
+  "name": "escrow-script",
+  "devDependencies": {
+    "@types/bn.js": "^5.1.1"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.77.3",
+    "bn.js": "^5.2.1",
+    "buffer-layout": "^1.2.2"
+  }
+}
